@@ -21,5 +21,5 @@ Meu nome é Eloísa da Costa Tomazini
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 ### Você pode entrar em contato comigo 📫
 
-eloisacostatmz@gmail.com ou
+eloisacostatmz@gmail.com 
 eloisa.tomazini@escola.pr.gov.br
