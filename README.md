@@ -23,4 +23,3 @@ Meu nome é Eloísa da Costa Tomazini
 
 eloisacostatmz@gmail.com 
 eloisa.tomazini@escola.pr.gov.br
-![ aesthetic ] ( https://br.pinterest.com/pin/818881144725063026/ )
