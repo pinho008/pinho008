@@ -19,3 +19,7 @@ Meu nome é Eloísa da Costa Tomazini
 
 - Estou estudando na Alura
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+### Você pode entrar em contato comigo 📫
+
+eloisacostatmz@gmail.com
+elois.tomazini@escola.pr.gov.br
