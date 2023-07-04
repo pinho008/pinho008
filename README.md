@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Boas vindas ao meu perfil 💙
+Meu nome é Eloísa da Costa Tomazini
+
+- Estou estudando na Alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
